@@ -7,7 +7,7 @@ h2o.init(max_mem_size = "6G")
 # Import data and Manage Data Types
 
 # This exploration of H2O will use a version of the Lending Club Loan Data that can be found on Kaggle. This data consists of 15 variables:
-  
+
 # |   | Column Name | Description | | --- | ----------- | ----------- | 
 # | 1 | loan_amnt | Requested loan amount (US dollars) | 
 # | 2 | term | Loan term length (months) | 
